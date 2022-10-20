@@ -1,0 +1,3 @@
+[submodule "schematics"]
+	path = schematics
+	url = https://github.com/rymut/olivetti-personal-et55
